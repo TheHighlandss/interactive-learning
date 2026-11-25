@@ -1,0 +1,4 @@
+interface:
+  display_name: "互动式学习"
+  short_description: "从你的理解出发，一次讲透一个概念，用新情境练习并在结束时复盘"
+  default_prompt: "用 $interactive-learning 带我学一个主题，先从一个摸底问题开始。"
